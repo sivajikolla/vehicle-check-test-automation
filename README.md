@@ -29,6 +29,7 @@ IntelliJ or Eclipse with Cucumber Plugin
 ## Running the tests
 
 #### To run all the tests in the project
+Tested can be executed on Chrome browser with version 107
 
 ```
 mvn clean verify
