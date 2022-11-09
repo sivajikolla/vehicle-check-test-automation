@@ -38,5 +38,7 @@ mvn clean verify
 
 ## Reporting
 
-<img width="1663" alt="2022-11-09_10-15-43" src="https://user-images.githubusercontent.com/29984950/200814306-90a159e2-2149-4ea3-8221-51469616f1ff.png">
+<img width="1400" alt="2022-11-09_10-15-43" src="https://user-images.githubusercontent.com/29984950/200814306-90a159e2-2149-4ea3-8221-51469616f1ff.png">
+
+<img width="1400" alt="2022-11-09_11-38-23" src="https://user-images.githubusercontent.com/29984950/200821081-e138791e-ba7e-47be-938d-52f516da0cbe.png">
 
