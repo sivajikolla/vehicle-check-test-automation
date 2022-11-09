@@ -21,6 +21,9 @@ IntelliJ or Eclipse with Cucumber Plugin
 * Serenity - Text execution and reporting
 * Hamcrest & AssertJ - Assertions
 
+## Framework Structure
+
+<img width="255" alt="2022-11-09_10-18-29" src="https://user-images.githubusercontent.com/29984950/200814209-5a56cf6e-5901-4ddc-bdaa-663fceb0130e.png">
 
 
 ## Running the tests
@@ -31,3 +34,8 @@ IntelliJ or Eclipse with Cucumber Plugin
 mvn clean verify
 
 ```
+
+## Reporting
+
+<img width="1663" alt="2022-11-09_10-15-43" src="https://user-images.githubusercontent.com/29984950/200814306-90a159e2-2149-4ea3-8221-51469616f1ff.png">
+
