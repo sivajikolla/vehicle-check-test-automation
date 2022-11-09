@@ -13,18 +13,13 @@ Maven - 3.5
 IntelliJ or Eclipse with Cucumber Plugin
 ```
 
-First time while running test from feature file might receive error "chromedriver” cannot be opened because the developer cannot be verified."
-
-if error is received, using terminal navigate to driver location and run "xattr -d com.apple.quarantine chromedriver"
-
-
 ## Built With
 
 * Maven - Build Management
 * Selenium - Web Automation Tool
-* Cucumber - BDD Tests
+* Cucumber - BDD Test design pattern
 * Serenity - Text execution and reporting
-* Hamcrest - Assertions
+* Hamcrest & AssertJ - Assertions
 
 
 
@@ -33,6 +28,6 @@ if error is received, using terminal navigate to driver location and run "xattr 
 #### To run all the tests in the project
 
 ```
-mvn clean test
+mvn clean verify
 
 ```
